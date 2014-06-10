@@ -1,5 +1,5 @@
 {
-    "name": "karser/sms-bundle",
+    "name": "restricted/sms-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SMSBundle",
     "keywords": ["sms"],
